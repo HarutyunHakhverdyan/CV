@@ -78,24 +78,26 @@ ins{
 }
 .name{
     display: flex;
+    
 }
 .divRight1{
     display: flex;
     margin-left: 20px;
-    justify-content: space-between;
-    margin-right: 20px;
-    background-color:  #27364d;
-   
+    width: 100%; 
 }
 .pRight1{
-    background-color: rgb(250, 243, 243);
-    height: 10Px;
     margin-right: 15px;
     color: #262626;
+    width: 145px;
+}
+.divRight1_1{
     
+    margin-right: 30px;
+    background-color:  #27364d;
+    width: 80%;
 }
 .name1{
-    width: 35%;
+    
     margin: 20px;
     font-size: 45px;
     color:  #383838;
