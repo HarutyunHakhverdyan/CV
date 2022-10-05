@@ -78,7 +78,6 @@ ins{
 }
 .name{
     display: flex;
-    justify-content: space-between
 }
 .divRight1{
     display: flex;
